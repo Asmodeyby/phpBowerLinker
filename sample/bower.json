@@ -1,0 +1,20 @@
+{
+  "name": "AyaCMS",
+  "version": "0.0.0",
+  "authors": [
+    "Asmodeyby <Asmodey2007@tut.by>"
+  ],
+  "description": "Aya Framework plugins",
+  "license": "MIT",
+  "homepage": "http://it-ground.net",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
